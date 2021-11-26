@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ActivitatsMultiples</string>
+    <string name="activity_main_tv_askName">Quin és el teu nom?</string>
+    <string name="activity_main_btn_send">Envia a la segona activity</string>
+    <string name="activity_second_tv_welcome">Benvingut/benvinguda %1$s</string>
+    <string name="activity_second_btn_back">Retorna a l\'activity principal</string>
+    <string name="activity_main_hint_enterName">Escriu el teu nom</string>
+</resources>

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MutipleActivities</string>
+    <string name="activity_main_tv_askName">What is your name?</string>
+    <string name="activity_main_hint_enterName">Enter your name</string>
+    <string name="activity_main_btn_send">Send to second activity</string>
+    <string name="activity_second_tv_welcome">You are welcome %1$s</string>
+    <string name="activity_second_btn_back">Back to main activity</string>
+</resources>
