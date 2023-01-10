@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Actividades múltiples</string>
+    <string name="activity_main_tv_askName">¿Qual es tu nombre?</string>
+    <string name="activity_main_hint_enterName">Escribe tu nombre</string>
+    <string name="activity_main_btn_send">Envia a la segunda activity</string>
+    <string name="activity_second_tv_welcome">Bienvenido/da %1$s</string>
+    <string name="activity_second_btn_back">Vuelve a la activity principal</string>
+</resources>
